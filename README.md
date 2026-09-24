@@ -4,11 +4,12 @@
 
 ## Categories
 
-- backend
-- frontend
-- database
-- architecture
-- devops
+- book-review
 - algorithm
-- computer-science
-- books
+- development
+  - network
+  - kotlin
+  - architecture
+  - java-web
+  - spring
+  - docker
